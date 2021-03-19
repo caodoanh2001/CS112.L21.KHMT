@@ -11,6 +11,7 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 ## News
 
 - 19/03/2021: We created this repository.
+- 20/03/2021: We update [BOT excercise](Assignments/Week1/BOT).
 ## Member
 
 |Order|    Member         |  ID        | Role 
@@ -26,8 +27,8 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
     - [ ] Slide
     - [ ] Examples and source code
 - [x] Solutions of all problems (In progress)
-    - [ ] Week 1:
-        - [ ] Bot
+    - [x] Week 1:
+        - [x] Bot
         - [ ] Algae
     - [ ] Week 2:
     - [ ] Week 3:
