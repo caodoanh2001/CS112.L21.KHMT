@@ -8,9 +8,9 @@ Below we will describe clearly our solution
 
 **Pattern Recognition**: Dynamic Programming
 
-## Algorithm designed
+**Pesudocode**:
 
-```
+```[python3]
 Given arr[n]
 
 Begin from first element (start = 0)
@@ -29,4 +29,4 @@ return position_start, position_end, max_sum
     
 ```
 
-**Complexity**: because we only use 1 loop so that the complexity is O(n).
+**Complexity**: O(n). 
