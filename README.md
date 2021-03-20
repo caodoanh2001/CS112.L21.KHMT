@@ -10,6 +10,7 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 
 ## Latest
 
+- 21/03/2021: We release our seminar slide of [Backtracking topic](Seminar)
 - 21/03/2021: We update [Algae excercise](Assignments/Week1/Algae).
 - 20/03/2021: We update [BOT excercise](Assignments/Week1/BOT).
 - 19/03/2021: We created this repository.
@@ -26,9 +27,9 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 ## Status of repository
 
 - [x] Resource of seminar topic (In progress)
-    - [ ] Slide
+    - [x] Slide (updating)
     - [ ] Examples and source code
-- [x] Solutions of all problems (In progress)
+- [x] Solutions of all problems (Done)
     - [x] Week 1:
         - [x] [Bot](Assignments/Week1/BOT)
         - [x] [Algae](Assignments/Week1/Algae)
