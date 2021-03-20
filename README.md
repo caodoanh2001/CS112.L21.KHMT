@@ -4,13 +4,13 @@
 
 # Introduction
 
-This repository stores our solutions for all problems in the CS112.L21 lecture.
+This repository stores our solutions for all problems in the CS112.L21 - Algorithm analysis and design lecture.
 
 In this lecture, our seminar topic is about backtracking algorithm. Our slide and related source code also includes in this repo.
 
 ## Latest
 
-- 20/03/2021: We update [Algae excercise](Assignments/Week1/Algae).
+- 21/03/2021: We update [Algae excercise](Assignments/Week1/Algae).
 - 20/03/2021: We update [BOT excercise](Assignments/Week1/BOT).
 - 19/03/2021: We created this repository.
 
