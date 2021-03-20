@@ -8,10 +8,11 @@ This repository stores our solutions for all problems in the CS112.L21 lecture.
 
 In this lecture, our seminar topic is about backtracking algorithm. Our slide and related source code also includes in this repo.
 
-## News
+## Latest
 
-- 19/03/2021: We created this repository.
 - 20/03/2021: We update [BOT excercise](Assignments/Week1/BOT).
+- 19/03/2021: We created this repository.
+
 ## Member
 
 |Order|    Member         |  ID        | Role 
