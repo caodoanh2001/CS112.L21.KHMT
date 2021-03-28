@@ -33,8 +33,8 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
     - [x] Week 1:
         - [x] [Bot](Assignments/Week1/BOT)
         - [x] [Algae](Assignments/Week1/Algae)
-    - [x] Week 2:
-    - [x] Week 3:
+    - [ ] Week 2:
+    - [ ] Week 3:
     - [ ] Week 4:
     - [ ] Week 5:
     - [ ] Week 6:
