@@ -80,5 +80,5 @@ return aux
 
 ## Complexity
 
-**Sorting:** Timsort - O(n.log(n))
-**Algorithm:** O(n.log(n))
+- **Sorting:** Timsort - O(n.log(n))
+- **Algorithm:** O(n.log(n))
