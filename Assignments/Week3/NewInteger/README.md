@@ -6,7 +6,8 @@ Let a positive integer n have no more than 100 digits. Find the largest integer 
 
 Input from standard input device:
 
-Data: Input a positive integer n have no more than 100 digits which don't have meaningless 0 digits.
+Data: Input a positive integer n have no more than 100 digits which don't have meaningless 0 digits. 
+
 Example:
 
 
@@ -18,7 +19,7 @@ Example:
 </tr>
 <tr>
 <td>
-<p><tt><strong>123</strong></tt></p>
+<p><tt>123</tt></p>
 </td>
 <td>723</td>
 </tr>
