@@ -36,7 +36,9 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
     - [x] Week 2:
         - [x] [H_index](Assignments/Week2/H_index)
         - [x] [Lock number](Assignments/Week2/Lock_number)
-    - [ ] Week 3:
+    - [x] Week 3:
+        - [x] [New int](Assignments/Week3/New_Int)
+        - [x] [New change](Assignments/Week3/New_Change)
     - [ ] Week 4:
     - [ ] Week 5:
     - [ ] Week 6:
