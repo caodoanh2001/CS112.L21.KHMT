@@ -29,8 +29,8 @@ Example:
 ## Abstraction
 
 We have the number of working days of team I is ![](https://i.imgur.com/JU4TRvP.png)
-, with ![](https://i.imgur.com/zlCddGk.png) is integer.
-the number of working days of team II is ![](https://i.imgur.com/SGob5Vp.png), with ![](https://i.imgur.com/Ryo3SOS.png) is integer.
+, with ![](https://i.imgur.com/zlCddGk.png) is an integer.
+the number of working days of team II is ![](https://i.imgur.com/SGob5Vp.png), with ![](https://i.imgur.com/Ryo3SOS.png) is an integer.
 Therefore, total trees that both teams grow:
 ![](https://i.imgur.com/wtdIwzj.png)
 So that we have to find the minimum of ![](https://i.imgur.com/aa15hgt.png) that still less than or equal the value of below equation:
