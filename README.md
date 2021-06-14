@@ -10,7 +10,7 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 
 ## Latest
 
-- We update pptx slide
+- We update pptx [slide](Seminar/03_BACKTRACKING.pptx)
 - We release Assignment [week 4](Assignments/Week4).
 - We release Assignment [week 3](Assignments/Week3).
 - We release Assignment [week 2](Assignments/Week2).
