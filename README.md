@@ -10,6 +10,10 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 
 ## Latest
 
+- We update pptx slide
+- We release Assignment [week 4](Assignments/Week4).
+- We release Assignment [week 3](Assignments/Week3).
+- We release Assignment [week 2](Assignments/Week2).
 - 21/03/2021: We release our seminar slide of [Backtracking topic](Seminar)
 - 21/03/2021: We update [Algae excercise](Assignments/Week1/Algae).
 - 20/03/2021: We update [BOT excercise](Assignments/Week1/BOT).
