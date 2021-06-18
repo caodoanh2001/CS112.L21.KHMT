@@ -28,7 +28,7 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 1. Bùi Cao Doanh: báo cáo về khái niệm, cách tiếp cận, phân loại, trình bày hạn chế.
 2. Bùi Trần Ngọc Dũng: trình bày về mô hình quay lui và bài toán lắc xí ngầu.
 3. Nguyễn Đăng Minh: giải trực tiếp bài lắc xí ngầu và giải thích code.
-4. Lê Kim Tỵ: ghi chú biên bản.
+4. Lê Kim Tỵ: ghi chú biên bản. Tuy nhiên vắng có lý do.
 
 ## Về các nhóm dự thính
 
