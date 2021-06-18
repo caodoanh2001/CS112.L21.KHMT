@@ -28,7 +28,11 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 1. Bùi Cao Doanh: báo cáo về khái niệm, cách tiếp cận, phân loại, trình bày hạn chế.
 2. Bùi Trần Ngọc Dũng: trình bày về mô hình quay lui và bài toán lắc xí ngầu.
 3. Nguyễn Đăng Minh: giải trực tiếp bài lắc xí ngầu và giải thích code.
-4. Lê Kim Tỵ: ghi chú biên bản. Tuy nhiên vắng có lý do.
+4. Lê Kim Tỵ: dự kiến được phân công ghi chú biên bản. Nhưng Tỵ vắng có phép (do phải đi bệnh viện) nên công việc này giao lại cho Minh và xoay vòng các bạn trong nhóm khi đang không phải thuyết trình.
+
+#### Đánh giá mức độ hoàn thành
+
+*Đang cập nhật*
 
 ## Về các nhóm dự thính
 
@@ -42,27 +46,69 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 |4    |  Nhóm 8       |  1                |
 |5    |  Nhóm 6       |  1                |
 
-### Các nhóm tham gia làm bài tập
+### Đánh giá bài tập thực hành
 
 Có tổng cộng hai bài tập:
 
 #### Bài Rolling dice
+
+##### Tình trạng hoàn thành
 |STT|    Nhóm         |  Score|
 |:---:| :-----------: | :--:              | 
 |1    |  Nhóm 4      |  100                |
-|2    |  19522227      |  100                |
+|2    |  Nhóm 1      |  100                |
 |3    |  Nhóm 5       |  100                |
 |4    |  Nhóm 13       |  100                |
 |5    |  Nhóm 6       |  90                |
 |6    |  Nhóm 2       |  160               |
 
+##### Đánh giá
++ Nhóm 4: *Đang cập nhật*
++ Nhóm 1: *Đang cập nhật*
++ Nhóm 5: *Đang cập nhật*
++ Nhóm 13: *Đang cập nhật*
++ Nhóm 6: *Đang cập nhật*
++ Nhóm 2: *Đang cập nhật*
+
 ### Bài N-Queens
+
+##### Tình trạng hoàn thành
 |STT|    Nhóm         |  Score|
 |:---:| :-----------: | :--:              | 
 |1    |  Nhóm 4      |  100                |
 |2    |  Nhóm 2      |  100                |
 |3    |  Nhóm 5       |  100                |
 |4    |  Nhóm 13       |  100                |
-|5    |  19522227       |  20                |
+|5    |  Nhóm 1       |  20                |
 
-## Bảng mô tả các bài thực hành
+##### Đánh giá
++ Nhóm 4: *Đang cập nhật*
++ Nhóm 2: *Đang cập nhật*
++ Nhóm 5: *Đang cập nhật*
++ Nhóm 13: *Đang cập nhật*
++ Nhóm 1: *Đang cập nhật*
+
+### Mô tả các bài tập thực hành
+Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
++ Roll dice
++ N - queens.
+
+Trong đó, bài Roll dice là biến thể của bài toán "Cái túi" quen thuộc, sử dụng bài toán này làm assignment với mục đích giúp các nhóm dự thính hiểu ý tưởng và cài đặt cơ bản lại thuật toán Backtracking. Tuy nhiên, nhóm có cài đặt thời gian ở test case # hơi ngặt một chút để thử thách các nhóm tìm ra hướng giải quyết tối ưu hơn. Thực chất ý đồ của nhóm 3 là muốn các nhóm tự tìm hiểu và tiếp cận kỹ thuật "branch and bound" - nhánh và cận để tỉa bớt đi các nhánh chắc chắn sai mà ta không phải tìm kiếm solution ở nhánh đó nữa. Để thực hiện điều này chỉ cần ràng buộc một điều kiện trước lần gọi đệ quy tiếp theo.
+
+Đối với bài N-queens, đây là bài toán có mức độ cao hơn một chút, đòi hỏi ngoài việc hiểu thì các nhóm cần phải vận dụng thêm chút kỹ năng và cảm giác. Tuy nhiên đây cũng là một bài toán phổ biến, các nhóm hoàn toàn có thể tham khảo các lời giải có sẵn để cài đặt giải thuật của riêng mình.
+
+Test case của bài này được nhóm đặt ở [đây](). 
+
+Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm.
+
+### Góp ý của GVHD
+#### Ưu
++ Cách tiếp cận vấn đề bằng bộ phim Black mirror: Bandersnatch rất sáng tạo, giúp dẫn dắt vào chủ đề chính một cách dễ dàng.
++ Code trực tiếp cho các nhóm theo dõi, việc làm này sẽ giúp mọi người dễ hình dung cách cài đặt, cũng như theo dõi các lỗi phát sinh (nếu có) và cách để fix chúng. Việc phát hiện lỗi của coder cũng giúp không khí trở nên sôi nổi.
+#### Nhược
++ Slide chưa đẹp, nhiều chữ (Nhóm đã soạn lại slide bắt mắt hơn tại [đây](Seminar/03_BACKTRACKING.pptx))
++ Chưa kết nối được các nhóm xây dựng bài học vì nhóm chủ trì nói hơi nhiều, điều này làm các bạn có cảm giác không biết phải hỏi gì.
++ Phần hạn chế của backtracking cần phải chỉnh sửa lại chính xác hơn (Nhóm đã chỉnh sửa lại tại [đây](Seminar/03_BACKTRACKING.pptx))
+
+### Tự phê bình
+Nhóm xin chân thành đón nhận những lời góp ý của các bạn tại phần issue, cũng như những lời góp ý của GVHD. Qua đó nhóm thấy rằng mình chuẩn bị chỉ tạm ổn, phần nào mang đến kiến thức tuy nhiên cách trình bày chưa được chỉn chu, slide chưa được đẹp khiến cho buổi thuyết trình mất đi sự hào hứng từ các nhóm. Bên cạnh đó phần ưu điểm của GVHD nhận xét là nguồn động lực giúp nhóm phát triển tốt hơn không những trong môn học này mà còn trong những môn học khác. Hy vọng trong tương lai nếu gặp lại GVHD hoặc các bạn cùng lớp trong một môn học khác, những thành viên trong nhóm (dù lúc đó có thể không cùng trong 1 nhóm nữa) vẫn sẽ nỗ lực hết mình để mang lại các buổi thuyết trình sinh động và thú vị hơn.
