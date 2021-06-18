@@ -34,6 +34,13 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 
 *Đang cập nhật*
 
+## Về tài liệu
+
+* [Slide thuyết trình]()
+* [Bài tập luyện tập]()
+* [Các test case của bài tập]()
+
+
 ## Về các nhóm dự thính
 
 ### :loudspeaker: Các lần đóng góp bài học của các nhóm
