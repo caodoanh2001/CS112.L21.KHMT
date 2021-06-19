@@ -20,11 +20,11 @@ Có tổng cộng hai bài tập:
 
 ##### Lời giải của các nhóm kèm đánh giá
 
-* [Nhóm 4](Nhom4)
-* [Nhóm 1](Nhom1)
-* [Nhóm 5](Nhom5)
-* [Nhóm 13](Nhom13)
-* [Nhóm 2](Nhom2)
+* [Nhóm 4](RollDice/Nhom4)
+* [Nhóm 1](RollDice/Nhom1)
+* [Nhóm 5](RollDice/Nhom5)
+* [Nhóm 13](RollDice/Nhom13)
+* [Nhóm 2](RollDice/Nhom2)
 
 #### Bài N-Queens
 
@@ -39,11 +39,11 @@ Có tổng cộng hai bài tập:
 
 ##### Lời giải của các nhóm kèm đánh giá
 
-* [Nhóm 4](Nhom4)
-* [Nhóm 2](Nhom2)
-* [Nhóm 5](Nhom5)
-* [Nhóm 13](Nhom13)
-* [Nhóm 1](Nhom1)
+* [Nhóm 4](N-Queens/Nhom4)
+* [Nhóm 2](N-Queens/Nhom2)
+* [Nhóm 5](N-Queens/Nhom5)
+* [Nhóm 13](N-Queens/Nhom13)
+* [Nhóm 1](N-Queens/Nhom1)
 
 ### :clipboard: Mô tả các bài tập thực hành
 Có 2 bài tập được giao cho các nhóm dự thính bao gồm:

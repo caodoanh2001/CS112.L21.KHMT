@@ -73,11 +73,11 @@ Có tổng cộng hai bài tập:
 
 ##### Lời giải của các nhóm kèm đánh giá
 
-* [Nhóm 4](Homework_cac_nhom/Nhom4)
-* [Nhóm 1](Homework_cac_nhom/Nhom1)
-* [Nhóm 5](Homework_cac_nhom/Nhom5)
-* [Nhóm 13](Homework_cac_nhom/Nhom13)
-* [Nhóm 2](Homework_cac_nhom/Nhom2)
+* [Nhóm 4](Homework_cac_nhom/RollDice/Nhom4)
+* [Nhóm 1](Homework_cac_nhom/RollDice/Nhom1)
+* [Nhóm 5](Homework_cac_nhom/RollDice/Nhom5)
+* [Nhóm 13](Homework_cac_nhom/RollDice/Nhom13)
+* [Nhóm 2](Homework_cac_nhom/RollDice/Nhom2)
 
 #### Bài N-Queens
 
@@ -92,11 +92,11 @@ Có tổng cộng hai bài tập:
 
 ##### Lời giải của các nhóm kèm đánh giá
 
-* [Nhóm 4](Homework_cac_nhom/Nhom4)
-* [Nhóm 2](Homework_cac_nhom/Nhom2)
-* [Nhóm 5](Homework_cac_nhom/Nhom5)
-* [Nhóm 13](Homework_cac_nhom/Nhom13)
-* [Nhóm 1](Homework_cac_nhom/Nhom1)
+* [Nhóm 4](Homework_cac_nhom/N-Queens/Nhom4)
+* [Nhóm 2](Homework_cac_nhom/N-Queens/Nhom2)
+* [Nhóm 5](Homework_cac_nhom/N-Queens/Nhom5)
+* [Nhóm 13](Homework_cac_nhom/N-Queens/Nhom13)
+* [Nhóm 1](Homework_cac_nhom/N-Queens/Nhom1)
 
 ### :clipboard: Mô tả các bài tập thực hành
 Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
