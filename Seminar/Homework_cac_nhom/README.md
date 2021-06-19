@@ -20,11 +20,11 @@ Có tổng cộng hai bài tập:
 
 ##### Lời giải của các nhóm kèm đánh giá
 
-* [Nhóm 4](Homework_cac_nhom/Nhom4)
-* [Nhóm 1](Homework_cac_nhom/Nhom1)
-* [Nhóm 5](Homework_cac_nhom/Nhom5)
-* [Nhóm 13](Homework_cac_nhom/Nhom13)
-* [Nhóm 2](Homework_cac_nhom/Nhom2)
+* [Nhóm 4](Nhom4)
+* [Nhóm 1](Nhom1)
+* [Nhóm 5](Nhom5)
+* [Nhóm 13](Nhom13)
+* [Nhóm 2](Nhom2)
 
 #### Bài N-Queens
 
@@ -39,11 +39,11 @@ Có tổng cộng hai bài tập:
 
 ##### Lời giải của các nhóm kèm đánh giá
 
-* [Nhóm 4](Homework_cac_nhom/Nhom4)
-* [Nhóm 2](Homework_cac_nhom/Nhom2)
-* [Nhóm 5](Homework_cac_nhom/Nhom5)
-* [Nhóm 13](Homework_cac_nhom/Nhom13)
-* [Nhóm 1](Homework_cac_nhom/Nhom1)
+* [Nhóm 4](Nhom4)
+* [Nhóm 2](Nhom2)
+* [Nhóm 5](Nhom5)
+* [Nhóm 13](Nhom13)
+* [Nhóm 1](Nhom1)
 
 ### :clipboard: Mô tả các bài tập thực hành
 Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
