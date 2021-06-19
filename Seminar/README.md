@@ -40,7 +40,10 @@ Dưới đây là bảng tóm tắt, xem chi tiết tại [đây]()
 
 * [Slide thuyết trình](03_BACKTRACKING.pptx)
 * [Bài tập luyện tập](https://www.hackerrank.com/contests/backtracking-cs112/challenges)
-* [Tài liệu tham khảo]()
+* Tài liệu tham khảo:
+  + [TOP Các tập phim Black Mirror hay nhất](https://top20.vn/top/top-cac-tap-phim-black-mirror-hay-nhat)
+  + [SE 143 Lecture 12 Recursive Backtracking](https://courses.cs.washington.edu/courses/cse143/12su/lectures/07-16/12-recursive-backtracking.pdf)
+  + [CS 106B, Lecture 11 Exhaustive Search and Backtracking](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1188/lectures/Lecture11/Lecture11.pdf)
 
 
 ## Về các nhóm dự thính
