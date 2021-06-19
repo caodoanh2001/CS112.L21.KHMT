@@ -1,31 +1,31 @@
-# Python3 implementation to find the 
-# number of ways to place two 
-# queens on the N * N chess board 
-import math 
-  
-# Function to find number of valid 
-# positions for two queens in the 
-# N * N chess board 
-def possiblePositions(n): 
-      
-    term1 = pow(n, 4); 
-    term2 = pow(n, 3); 
-    term3 = pow(n, 2); 
-    term4 = n / 3; 
-      
-    ans = ((math.ceil(term1)) / 2 - 
-           (math.ceil(5 * term2)) / 3 + 
-           (math.ceil(3 * term3)) / 2 - term4); 
-             
-    return ans; 
-  
-# Driver code 
-if __name__ == '__main__': 
-      
-    n = int(input())
-  
-    # Function call
-    ans = possiblePositions(n) 
-      
-    print(int(ans)) 
-#https://www.geeksforgeeks.org/number-of-ways-to-place-two-queens-on-a-nn-chess-board/
+a, b = list(map(int, input().split()))
+
+def numRollsToTarget(d, target):
+    # store number of ways to reach a sum
+    # reduce space complexity by only storing previous dice roll
+    dp = [0 for _ in range(target + 1)]
+
+    # fill dp array for first dice roll, 1 way to reach each face on die
+    for face in range(1, 7):
+        if face > target: break
+        dp[face] = 1
+
+    # find # ways to reach sums between 1 and target (inclusive) with following dice rolls
+    for die in range(1, d):
+        new_dp = [0 for _ in range(target + 1)]
+
+        # prefix records sum(dp[max(0,t-f):t])
+        # Easy to conceptualize as a sliding window
+        prefix = 0
+        for t in range(1, target + 1):
+            new_dp[t] = prefix
+
+            # slide prefix to the right
+            prefix += dp[t]
+            if t >= 6:
+                prefix -= dp[t - 6]
+        dp = new_dp
+    return dp[target] % (10 ** 9 + 7)
+
+
+print(numRollsToTarget(a, b))
