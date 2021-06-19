@@ -9,6 +9,8 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 4. Lê Kim Tỵ - 19522505 - thành viên
 
 ### :bookmark_tabs: Phân công công việc
+
+Dưới đây là bảng tóm tắt, xem chi tiết tại [đây]()
 #### Trước lúc báo cáo
 1. Bùi Cao Doanh:
 - [x] Lên layout bài thuyết trình, phân công công việc cho các bạn trong nhóm.
@@ -36,9 +38,9 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 
 ## Về tài liệu
 
-* [Slide thuyết trình]()
-* [Bài tập luyện tập]()
-* [Các test case của bài tập]()
+* [Slide thuyết trình](03_BACKTRACKING.pptx)
+* [Bài tập luyện tập](https://www.hackerrank.com/contests/backtracking-cs112/challenges)
+* [Tài liệu tham khảo]()
 
 
 ## Về các nhóm dự thính
@@ -55,6 +57,7 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 
 ### :pencil2: Đánh giá bài tập thực hành
 
+Dưới đây là bảng tóm tắt, xem chi tiết tại [đây](Homework_cac_nhom): 
 Có tổng cộng hai bài tập:
 
 #### Bài Rolling dice
@@ -65,17 +68,16 @@ Có tổng cộng hai bài tập:
 |1    |  Nhóm 4      |  100                |
 |2    |  Nhóm 1      |  100                |
 |3    |  Nhóm 5       |  100                |
-|4    |  Nhóm 13       |  100                |
-|5    |  Nhóm 6       |  90                |
-|6    |  Nhóm 2       |  160               |
+|4    |  Nhóm 13       |  100               |
+|5    |  Nhóm 2       |  90                |
 
-##### Đánh giá
-+ Nhóm 4: *Đang cập nhật*
-+ Nhóm 1: *Đang cập nhật*
-+ Nhóm 5: *Đang cập nhật*
-+ Nhóm 13: *Đang cập nhật*
-+ Nhóm 6: *Đang cập nhật*
-+ Nhóm 2: *Đang cập nhật*
+##### Lời giải của các nhóm kèm đánh giá
+
+* [Nhóm 4](Homework_cac_nhom/Nhom4)
+* [Nhóm 1](Homework_cac_nhom/Nhom1)
+* [Nhóm 5](Homework_cac_nhom/Nhom5)
+* [Nhóm 13](Homework_cac_nhom/Nhom13)
+* [Nhóm 2](Homework_cac_nhom/Nhom2)
 
 #### Bài N-Queens
 
@@ -88,12 +90,13 @@ Có tổng cộng hai bài tập:
 |4    |  Nhóm 13       |  100                |
 |5    |  Nhóm 1       |  20                |
 
-##### Đánh giá
-+ Nhóm 4: *Đang cập nhật*
-+ Nhóm 2: *Đang cập nhật*
-+ Nhóm 5: *Đang cập nhật*
-+ Nhóm 13: *Đang cập nhật*
-+ Nhóm 1: *Đang cập nhật*
+##### Lời giải của các nhóm kèm đánh giá
+
+* [Nhóm 4](Homework_cac_nhom/Nhom4)
+* [Nhóm 2](Homework_cac_nhom/Nhom2)
+* [Nhóm 5](Homework_cac_nhom/Nhom5)
+* [Nhóm 13](Homework_cac_nhom/Nhom13)
+* [Nhóm 1](Homework_cac_nhom/Nhom1)
 
 ### :clipboard: Mô tả các bài tập thực hành
 Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
@@ -112,10 +115,11 @@ Như vậy, hai bài toán trên (một bài dễ và một bài mức độ tru
 #### :+1: Ưu
 + Cách tiếp cận vấn đề bằng bộ phim Black mirror: Bandersnatch rất sáng tạo, giúp dẫn dắt vào chủ đề chính một cách dễ dàng.
 + Code trực tiếp cho các nhóm theo dõi, việc làm này sẽ giúp mọi người dễ hình dung cách cài đặt, cũng như theo dõi các lỗi phát sinh (nếu có) và cách để fix chúng. Việc phát hiện lỗi của coder cũng giúp không khí trở nên sôi nổi.
++ Nhóm tìm tài liệu tham khảo tốt.
 #### :-1: Nhược
-+ Slide chưa đẹp, nhiều chữ (Nhóm đã soạn lại slide bắt mắt hơn tại [đây](Seminar/03_BACKTRACKING.pptx))
++ Slide chưa đẹp, nhiều chữ (Nhóm đã soạn lại slide bắt mắt hơn tại [đây](03_BACKTRACKING.pptx))
 + Chưa kết nối được các nhóm xây dựng bài học vì nhóm chủ trì nói hơi nhiều, điều này làm các bạn có cảm giác không biết phải hỏi gì.
-+ Phần hạn chế của backtracking cần phải chỉnh sửa lại chính xác hơn (Nhóm đã chỉnh sửa lại tại [đây](Seminar/03_BACKTRACKING.pptx))
++ Phần hạn chế của backtracking cần phải chỉnh sửa lại chính xác hơn (Nhóm đã chỉnh sửa lại tại [đây](03_BACKTRACKING.pptx))
 
 ### :heartbeat: Tự phê bình
 Nhóm xin chân thành đón nhận những lời góp ý của các bạn tại phần issue, cũng như những lời góp ý của GVHD. Qua đó nhóm thấy rằng mình chuẩn bị chỉ tạm ổn, phần nào mang đến kiến thức tuy nhiên cách trình bày chưa được chỉn chu, slide chưa được đẹp khiến cho buổi thuyết trình mất đi sự hào hứng từ các nhóm. Bên cạnh đó phần ưu điểm của GVHD nhận xét là nguồn động lực giúp nhóm phát triển tốt hơn không những trong môn học này mà còn trong những môn học khác. Hy vọng trong tương lai nếu gặp lại GVHD hoặc các bạn cùng lớp trong một môn học khác, những thành viên trong nhóm (dù lúc đó có thể không cùng trong 1 nhóm nữa) vẫn sẽ nỗ lực hết mình để mang lại các buổi thuyết trình sinh động và thú vị hơn.
