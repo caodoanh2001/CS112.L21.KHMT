@@ -32,9 +32,35 @@ Dưới đây là bảng tóm tắt, xem chi tiết tại [đây]()
 3. Nguyễn Đăng Minh: giải trực tiếp bài lắc xí ngầu và giải thích code.
 4. Lê Kim Tỵ: dự kiến được phân công ghi chú biên bản. Nhưng Tỵ vắng có phép (do phải đi bệnh viện) nên công việc này giao lại cho Minh và xoay vòng các bạn trong nhóm khi đang không phải thuyết trình.
 
+#### Sau lúc báo cáo
+1. Bùi Cao Doanh, Bùi Trần Ngọc Dũng: 
+  + tổng kết, biên tập lại biên bản buổi thuyết trình
+  + sửa lại slide thuyết trình
+3. Nguyễn Đăng Minh, Lê Kim Tỵ: tổng hợp bài tập, đánh giá bài tập
+
+#### Các bài tập thực hành Wecode
+Cả 4 bạn đều cùng đưa ra ý kiến và giải bài tập, tuy nhiên báo cáo ipynb thì sẽ luân phiên nhau làm cách tuần:
+  + Tuần 1: Bùi Trần Ngọc Dũng
+  + Tuần 2: Bùi Cao Doanh
+  + Tuần 3: Lê Kim Tỵ
+  + Tuần 4: Nguyễn Đăng Minh
+
 #### Đánh giá mức độ hoàn thành
 
-*Đang cập nhật*
+Căn cứ vào phân công công việc, nhóm đã nhóm họp và 1 người sẽ được đánh giá bởi 3 người còn lại. Có 3 mức đánh giá:
++ Tốt: cần cả 3 người đồng ý
++ Khá: chỉ cần 2 người đồng ý
++ Trung bình: 1 người đồng ý
+Nhóm tự họp vào ngày 22/6/2021 lúc 18h, kết quả đánh giá mức độ hoàn thành mỗi thành viên như sau:
+
+|STT|    Nhóm               |  BCD  | BTND | NDM | LKT | Kết quả |
+|:---:| :-----------:       | :--:  | :--: | :--:| :--:| :--:    |
+|1    |  Bùi Cao Doanh      |  -    |   x  |  x  |   x | Tốt     |
+|2    |  Bùi Trần Ngọc Dũng |  x    |   -  |  x  |   x | Tốt     |
+|3    |  Nguyễn Đăng Minh   |  x    |   x  |  -  |   x | Tốt     |
+|4    |  Lê Kim Tỵ          |  x    |   x  |  x  |   - | Tốt     |
+
+Nhìn chung các bạn làm tốt nhiệm vụ được giao (chưa bàn tới khối lượng việc giao). 
 
 ## Về tài liệu
 

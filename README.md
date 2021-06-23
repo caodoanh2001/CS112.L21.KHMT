@@ -27,7 +27,7 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 |1    |    [Doanh B.C](https://github.com/caodoanh2001/)      |  19521366  | Leader
 |2    |    [Dung B.Ngoc](https://github.com/buidung2004/)    |  19521385  | Member
 |3    |    [Minh N.Dang](https://github.com/ELO102)    |  19520164  | Member
-|4    |    Ty Le Kim      |  19522505  | Member
+|4    |    [Ty Le Kim](https://github.com/kimty15)      |  19522505  | Member
 
 ## Status of repository
 
