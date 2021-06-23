@@ -58,7 +58,7 @@ Nhóm tự họp vào ngày 22/6/2021 lúc 18h, kết quả đánh giá mức đ
 |1    |  Bùi Cao Doanh      |  -    |   x  |  x  |   x | Tốt     |
 |2    |  Bùi Trần Ngọc Dũng |  x    |   -  |  x  |   x | Tốt     |
 |3    |  Nguyễn Đăng Minh   |  x    |   x  |  -  |   x | Tốt     |
-|4    |  Lê Kim Tỵ          |  1    |   x  |  x  |   - | Tốt     |
+|4    |  Lê Kim Tỵ          |  x    |   x  |  x  |   - | Tốt     |
 
 Nhìn chung các bạn làm tốt nhiệm vụ được giao (chưa bàn tới khối lượng việc giao). 
 
