@@ -40,10 +40,10 @@ Dưới đây là bảng tóm tắt, xem chi tiết tại [đây]()
 
 #### Các bài tập thực hành Wecode
 Cả 4 bạn đều cùng đưa ra ý kiến và giải bài tập, tuy nhiên báo cáo ipynb thì sẽ luân phiên nhau làm cách tuần:
-Tuần 1: Bùi Trần Ngọc Dũng
-Tuần 2: Bùi Cao Doanh
-Tuần 3: Lê Kim Tỵ
-Tuần 4: Nguyễn Đăng Minh
+  + Tuần 1: Bùi Trần Ngọc Dũng
+  + Tuần 2: Bùi Cao Doanh
+  + Tuần 3: Lê Kim Tỵ
+  + Tuần 4: Nguyễn Đăng Minh
 
 #### Đánh giá mức độ hoàn thành
 
