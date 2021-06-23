@@ -47,8 +47,3 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
     - [x] Week 4:
         - [x] [Fraction](Assignments/Week4/Fraction)
         - [ ] Wall
-    - [ ] Week 5:
-    - [ ] Week 6:
-    - [ ] Week 7:
-    - [ ] Week 8:
-    - [ ] Week 9:
