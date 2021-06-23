@@ -73,6 +73,8 @@ Có tổng cộng hai bài tập:
 |3    |  Nhóm 5       |  100                |
 |4    |  Nhóm 13       |  100               |
 |5    |  Nhóm 2       |  90                |
+|6    |  Nhóm 10       |  90                |
+|7    |  Nhóm 14       |  100                |
 
 ##### Lời giải của các nhóm kèm đánh giá
 
@@ -81,6 +83,8 @@ Có tổng cộng hai bài tập:
 * [Nhóm 5](Homework_cac_nhom/RollDice/Nhom5)
 * [Nhóm 13](Homework_cac_nhom/RollDice/Nhom13)
 * [Nhóm 2](Homework_cac_nhom/RollDice/Nhom2)
+* [Nhóm 10](Homework_cac_nhom/RollDice/Nhom10)
+* [Nhóm 14](Homework_cac_nhom/RollDice/Nhom14)
 
 #### Bài N-Queens
 
