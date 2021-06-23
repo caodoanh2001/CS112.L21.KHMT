@@ -33,7 +33,7 @@ In this lecture, our seminar topic is about backtracking algorithm. Our slide an
 
 - [x] Resource of seminar topic (In progress)
     - [x] Slide (updating)
-    - [ ] Examples and source code
+    - [x] Examples and source code
 - [x] Solutions of all problems (Done)
     - [x] Week 1:
         - [x] [Bot](Assignments/Week1/BOT)
