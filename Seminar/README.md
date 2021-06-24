@@ -148,6 +148,39 @@ Test case của bài này được nhóm đặt ở [đây]().
 
 Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm.
 
+### Tổng kết điểm của các nhóm
+#### Tiêu chí
++ Có tham gia buổi học (8 điểm)
++ Tham gia giải bài tập (1.5 điểm) (Bài Roll dice 1 điểm, bài N-Queens 0.5 điểm, mỗi bài giải >= 80 điểm sẽ được trọn điểm bài đó).
++ Tham gia đóng góp (0.5 điểm) (do nhóm chủ trì phần thảo luận chưa được sôi nổi nên xem như việc phát biểu sẽ được cộng khuyến khích)
+
+Nhóm mình nghĩ việc học là quá trình tự luyện tập nên khuyến khích việc có mặt trên lớp và theo dõi buổi học đã là một căn cứ tốt để các bạn có thể tự luyện tập về sau, do đó nhóm có thảo luận và quyết định mức điểm dành cho việc có mặt sẽ là 8, việc giải bài tập và phát biểu sẽ xem như là một điểm cộng nho nhỏ.
+Theo đó, mức điểm dành cho các nhóm như sau:
+
+#### Bảng điểm đánh giá các nhóm
+|STT|    Nhóm         |  Điểm|
+|:---:| :-----------: | :--:              | 
+|1    |  Nhóm 1      |  8.5                |
+|2    |  Nhóm 2      |  10                |
+|3    |  Nhóm 3       |  *                |
+|4    |  Nhóm 4       |  9.5                |
+|5    |  Nhóm 5       |  9.5                |
+|6    |  Nhóm 6       |  8.5                |
+|7    |  Nhóm 7       |  8                |
+|8    |  Nhóm 8       |  8.5                |
+|9    |  Nhóm 9       |  8                |
+|10    |  Nhóm 10       |  9.5                |
+|11    |  Nhóm 11       |  8                |
+|12    |  Nhóm 12       |  8                |
+|13    |  Nhóm 13       |  8.5                |
+|14    |  Nhóm 14       |  9.5                |
+|15    |  Nhóm 15       |  8                |
+|16    |  Nhóm 16       |  8.5                |
+|17    |  Nhóm 17       |  8.5                |
+|18    |  Nhóm 18       |  8                |
+
+(*): Nhóm chủ trì
+
 ### :star2: Góp ý của GVHD
 #### :+1: Ưu
 + Cách tiếp cận vấn đề bằng bộ phim Black mirror: Bandersnatch rất sáng tạo, giúp dẫn dắt vào chủ đề chính một cách dễ dàng.
