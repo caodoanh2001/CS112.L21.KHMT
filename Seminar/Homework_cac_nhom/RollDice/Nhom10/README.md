@@ -1,3 +1,4 @@
 # Đánh giá lời giải nhóm 10
-- Cách giải này cũng tương tự với cách giải cơ bản mà nhóm mình đề ra.
-- Lời giải tốt, code ngắn gọn. Bài này các bạn đạt 100 điểm.
+- Nhóm 10 các bạn làm theo giải thuật quay lui tốt tuy nhiên lời giải chưa tối ưu.
+- Các bạn có thể loại bỏ điều kiện xét không cần thiết như `if n < 0`.
+- Bài này các bạn đạt 90 điểm.
