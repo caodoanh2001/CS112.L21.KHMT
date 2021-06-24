@@ -49,15 +49,15 @@ Array sorting
 Below we describe our pesudocode for this problem:
 
 ```
-count = 0
-i = 0 
+count <- 0
+i <- 0 
 last = n (In the begining, possible max of k is n)
 while i < n: (check if i is still less than n)
     if cites[i] >= last: (check if i-th component is greater than number of articles)
-        count = count + 1 (if it is, increase count by 1)
+        count <- count + 1 (if it is, increase count by 1)
     else:
-        last = last - 1 (if not, decrease possible max of k by 1)
-    i = i + 1
+        last <- last - 1 (if not, decrease possible max of k by 1)
+    i <- i + 1
 ```
 
 ## Complexity

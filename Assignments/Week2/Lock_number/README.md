@@ -47,13 +47,13 @@ Divide and Conquer
 Below we describe our pesudocode for this problem:
 
 ```
-arr = sorted(arr) (sort non-decreasing)
-queue0 = [] (digit % 3 == 0)
-queue1 = [] (digit % 3 == 1)
-queue2 = [] (digit % 3 == 2)
+arr <- sorted(arr) (sort non-decreasing)
+queue0 <- [] (digit % 3 == 0)
+queue1 <- [] (digit % 3 == 1)
+queue2 <- [] (digit % 3 == 2)
 
 for i in arr:
-    sum = sum + i
+    sum <- sum + i
     if (i % 3 == 0):
         queue0.append(i)
     elif (i % 3 == 1):
@@ -63,18 +63,19 @@ for i in arr:
         
 if (sum % 3 == 1):
     if queue1:
-        queue1 = queue1[1:]
+        queue1 <- queue1[1:]
     elif queue2:
-        queue2 = queue2[2:] ( (2+2)%3 == 1 )
+        queue2 <- queue2[2:] ( (2+2)%3 == 1 )
 
 elif (sum % 3 == 2):
     if queue2:
-        queue2 = queue2[1:] 
+        queue2 <- queue2[1:] 
     elif queue1:
-        queue1 = queue1[2:]
+        queue1 <- queue1[2:]
         
-aux = queue0 + queue1 + queue2 (merge all digits list)
-aux = sorted(aux)[::-1] (sort to get max number)
+aux <- queue0 + queue1 + queue2 (merge all digits list)
+aux <- sorted(aux)
+aux <- reverse(aux) (reverse array)
 return aux
 ```
 
