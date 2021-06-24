@@ -1,0 +1,5 @@
+- input:
+7
+
+- output:
+40
