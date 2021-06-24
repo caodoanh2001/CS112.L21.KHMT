@@ -146,7 +146,7 @@ Trong đó, bài Roll dice là biến thể của bài toán "Cái túi" quen th
 
 Test case của bài này được nhóm đặt ở các link sau:
 + [Roll dice](Homework_cac_nhom/RollDice/Test_case)
-+ [N - Queens](Homework_cac_nhom/RollDice/N-Queens). 
++ [N - Queens](Homework_cac_nhom/N-Queens/Test_case)). 
 
 Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm.
 
