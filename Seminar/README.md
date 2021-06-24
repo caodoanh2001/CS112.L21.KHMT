@@ -122,6 +122,8 @@ Có tổng cộng hai bài tập:
 |3    |  Nhóm 5       |  100                |
 |4    |  Nhóm 13       |  100                |
 |5    |  Nhóm 1       |  20                |
+|6    |  Nhóm 10       |  100                |
+|7    |  Nhóm 14       |  100                |
 
 ##### Lời giải của các nhóm kèm đánh giá
 
@@ -130,6 +132,8 @@ Có tổng cộng hai bài tập:
 * [Nhóm 5](Homework_cac_nhom/N-Queens/Nhom5)
 * [Nhóm 13](Homework_cac_nhom/N-Queens/Nhom13)
 * [Nhóm 1](Homework_cac_nhom/N-Queens/Nhom1)
+* [Nhóm 10](Homework_cac_nhom/N-Queens/Nhom10)
+* [Nhóm 14](Homework_cac_nhom/N-Queens/Nhom14)
 
 ### :clipboard: Mô tả các bài tập thực hành
 Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
