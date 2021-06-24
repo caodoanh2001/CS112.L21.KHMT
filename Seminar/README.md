@@ -107,6 +107,7 @@ Có tổng cộng hai bài tập:
 |11    |  Nhóm 9       |  100                |
 |12    |  Nhóm 17       |  100                |
 |13    |  Nhóm 7       |  100                |
+|14    |  Nhóm 6       |  0                  |
 
 <!-- ##### Lời giải của các nhóm kèm đánh giá
 
@@ -136,6 +137,7 @@ Có tổng cộng hai bài tập:
 |11    |  Nhóm 9       |  100                |
 |12    |  Nhóm 17       |  100                |
 |13    |  Nhóm 7       |  100                |
+|14    |  Nhóm 6       |  100                |
 
 <!-- ##### Lời giải của các nhóm kèm đánh giá
 
@@ -179,7 +181,7 @@ Theo đó, mức điểm dành cho các nhóm như sau:
 |3    |  Nhóm 3       |  *                |
 |4    |  Nhóm 4       |  9.5                |
 |5    |  Nhóm 5       |  9.5                |
-|6    |  Nhóm 6       |  8.5                |
+|6    |  Nhóm 6       |  9.5                |
 |7    |  Nhóm 7       |  9.5                |
 |8    |  Nhóm 8       |  8.5                |
 |9    |  Nhóm 9       |  9.5                |
