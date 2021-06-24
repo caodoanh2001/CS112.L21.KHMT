@@ -144,7 +144,9 @@ Trong đó, bài Roll dice là biến thể của bài toán "Cái túi" quen th
 
 Đối với bài N-queens, đây là bài toán có mức độ cao hơn một chút, đòi hỏi ngoài việc hiểu thì các nhóm cần phải vận dụng thêm chút kỹ năng và cảm giác. Tuy nhiên đây cũng là một bài toán phổ biến, các nhóm hoàn toàn có thể tham khảo các lời giải có sẵn để cài đặt giải thuật của riêng mình.
 
-Test case của bài này được nhóm đặt ở [đây](). 
+Test case của bài này được nhóm đặt ở các link sau:
++ [Roll dice](Seminar/Homework_cac_nhom/RollDice/Test_case)
++ [N - Queens](Seminar/Homework_cac_nhom/RollDice/N-Queens). 
 
 Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm.
 
