@@ -104,6 +104,7 @@ Có tổng cộng hai bài tập:
 |8    |  Nhóm 16       |  100                |
 |9    |  Nhóm 11       |  100                |
 |10    |  Nhóm 15       |  100                |
+|11    |  Nhóm 17       |  100                |
 
 <!-- ##### Lời giải của các nhóm kèm đánh giá
 
@@ -130,6 +131,7 @@ Có tổng cộng hai bài tập:
 |8    |  Nhóm 16       |  100                |
 |9    |  Nhóm 11       |  100                |
 |10    |  Nhóm 15       |  100                |
+|11    |  Nhóm 17       |  100                |
 
 <!-- ##### Lời giải của các nhóm kèm đánh giá
 
