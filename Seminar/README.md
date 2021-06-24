@@ -107,7 +107,8 @@ Có tổng cộng hai bài tập:
 |11    |  Nhóm 9       |  100                |
 |12    |  Nhóm 17       |  100                |
 |13    |  Nhóm 7       |  100                |
-|14    |  Nhóm 6       |  0                  |
+|14    |  Nhóm 12       |  100                |
+|15    |  Nhóm 6       |  0                  |
 
 <!-- ##### Lời giải của các nhóm kèm đánh giá
 
@@ -137,7 +138,8 @@ Có tổng cộng hai bài tập:
 |11    |  Nhóm 9       |  100                |
 |12    |  Nhóm 17       |  100                |
 |13    |  Nhóm 7       |  100                |
-|14    |  Nhóm 6       |  100                |
+|14    |  Nhóm 12       |  100                |
+|15    |  Nhóm 6       |  100                |
 
 <!-- ##### Lời giải của các nhóm kèm đánh giá
 
