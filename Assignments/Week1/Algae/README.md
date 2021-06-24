@@ -45,10 +45,10 @@ First, we define base `fib()` function:
 Given index of n
 
 fib(n):
-    F = [[1,1],
+    F <- [[1,1],
         [1,0]]
     
-    F = power(F, n-1)
+    F <- power(F, n-1)
     return F[0][0]
         
 ```
@@ -60,10 +60,10 @@ Given base matrix F, k power
 
 power(F,k):
     # We define again the matrix for the purpose of multiplication.
-    M = [[1,1],
+    M <- [[1,1],
         [1,0]]
     for i:= 0 to n-1:
-        F = multiply(F,M)
+        F <- multiply(F,M)
     return F
 ```
 
@@ -72,15 +72,15 @@ Third, we define another helper function that can calulate the multiplication be
 ```
 Given matrix A, B
 multiply(A, B):
-    F_0_0 = (F[0][0] * M[0][0] + F[0][1] * M[1][0])
-    F_0_1 = (F[0][0] * M[0][1] + F[0][1] * M[1][1])
-    F_1_0 = (F[1][0] * M[0][0] + F[1][1] * M[1][0])
-    F_1_1 = (F[1][0] * M[0][1] + F[1][1] * M[1][1])
+    F_0_0 <- (F[0][0] * M[0][0] + F[0][1] * M[1][0])
+    F_0_1 <- (F[0][0] * M[0][1] + F[0][1] * M[1][1])
+    F_1_0 <- (F[1][0] * M[0][0] + F[1][1] * M[1][0])
+    F_1_1 <- (F[1][0] * M[0][1] + F[1][1] * M[1][1])
      
-    F[0][0] = F_0_0
-    F[0][1] = F_0_1
-    F[1][0] = F_1_0
-    F[1][1] = F_1_1
+    F[0][0] <- F_0_0
+    F[0][1] <- F_0_1
+    F[1][0] <- F_1_0
+    F[1][1] <- F_1_1
     
     return F
 ```
@@ -91,7 +91,7 @@ That's it! Now combine all functions:
 Given number of algae n and k-th day
 
 algae(n, k):
-    i_th = 2*k+1
-    result_at_k_th_day = n * fib(i_th)
+    i_th <- 2*k+1
+    result_at_k_th_day <- n * fib(i_th)
     return result_at_k_th_day
 ```
