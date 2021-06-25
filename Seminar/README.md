@@ -96,7 +96,7 @@ Test case của bài này được nhóm đặt ở các link sau:
 + [Roll dice](Homework_cac_nhom/RollDice/Test_case)
 + [N - Queens](Homework_cac_nhom/N-Queens/Test_case)). 
 
-Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm.
+Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm. Bài giải các nhóm tham khảo [tại đây](Homework_cac_nhom/BaiGiaiMau)
 #### Bài Rolling dice
 
 ##### Tình trạng hoàn thành
