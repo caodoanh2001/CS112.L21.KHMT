@@ -58,6 +58,7 @@ for i:=0 to n-1: (check if i is still less than n)
         last <- last - 1 (if not, decrease possible max of k by 1)
     endif
     i <- i + 1
+endfor
 ```
 
 ## Complexity

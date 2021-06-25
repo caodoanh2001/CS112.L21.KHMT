@@ -47,12 +47,11 @@ Divide and Conquer
 Below we describe our pesudocode for this problem:
 
 ```
-arr <- sorted(arr) (sort non-decreasing)
-queue0 <- [] (digit % 3 == 0)
-queue1 <- [] (digit % 3 == 1)
-queue2 <- [] (digit % 3 == 2)
-
 function solve(arr): 
+    arr <- sorted(arr) (sort non-decreasing)
+    queue0 <- [] (digit % 3 == 0)
+    queue1 <- [] (digit % 3 == 1)
+    queue2 <- [] (digit % 3 == 2)
     for i in arr:
         sum <- sum + i
         if (i % 3 == 0):
