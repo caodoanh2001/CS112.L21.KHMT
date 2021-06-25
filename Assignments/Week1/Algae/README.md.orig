@@ -45,7 +45,11 @@ First, we define base `fib()` function:
 ```
 Given index of n
 
+<<<<<<< HEAD
 function fib(n):
+=======
+fib(n):
+>>>>>>> 076f92f02d11ab0510e88210c3a9852a30d0ca80
     F <- [[1,1],
         [1,0]]
     
