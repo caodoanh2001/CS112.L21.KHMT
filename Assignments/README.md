@@ -1,6 +1,6 @@
 |Order|    Problem             |  Link|
 |:---:| :-----------:          | :--:              | 
-|1    |  Algae (Tảo biển)      |  [Link](Week1/Alge)                |
+|1    |  Algae (Tảo biển)      |  [Link](Week1/Algae)                |
 |2    |  BOT                   |  [Link](Week1/BOT)                |
 |3    |  H_index               |  [Link](Week2/H_index)                |
 |4    |  Lock number (Khóa số) |  [Link](Week2/Lock_number)                |
