@@ -20,11 +20,12 @@ for i:=0 to n-1:
         max_sum <- current_sum (tracking current cumulative sums)
         position_start <- start (update index of first element of subarray)
         position_end <- i (update index of last element of subarray)
-        
+    endif
     if current_sum < 0: (check whether current cumulative sum is negative)
         position_start <- i + 1 (we will update the index of first element of subarray to the next element of original array.)
         current_sum <- 0 (we will remove cumulative sum, calculate it again from the next element.)
-
+    endif
+endfor
 return position_start, position_end, max_sum
     
 ```

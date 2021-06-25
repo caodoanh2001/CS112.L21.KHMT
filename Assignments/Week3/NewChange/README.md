@@ -45,4 +45,8 @@ Dynamic programming
 
 The main idea is search the value of x from 0 to inf.
 
+## Complexity
+
+This is essentially a binary search algorithm so that the complexity is **O(log(n))**
+
 ![](https://i.imgur.com/Cvgw9lZ.png).

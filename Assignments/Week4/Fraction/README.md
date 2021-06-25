@@ -24,7 +24,7 @@ First we create n and set it to 0 for storing times. Then we follow steps below:
 
 ```
 Given a,b,c,d
-proceduce(a,b,c,d):
+function(a,b,c,d):
     n <-- 0
     if (a*d <= b*c and a/b < 1 and c/d < 1)):
         while (a*b < c*d):
@@ -34,6 +34,9 @@ proceduce(a,b,c,d):
             n <-- n + 1        // increase the times
             if (a==c and b==d):
                 return n
+            endif
+        endwhile
+    endif
 ```
 
 ## Complexity

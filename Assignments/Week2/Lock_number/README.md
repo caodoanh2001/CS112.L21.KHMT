@@ -52,31 +52,45 @@ queue0 <- [] (digit % 3 == 0)
 queue1 <- [] (digit % 3 == 1)
 queue2 <- [] (digit % 3 == 2)
 
-for i in arr:
-    sum <- sum + i
-    if (i % 3 == 0):
-        queue0.append(i)
-    elif (i % 3 == 1):
-        queue1.append(i)
-    else:
-        queue2.append(i)
-        
-if (sum % 3 == 1):
-    if queue1:
-        queue1 <- queue1[1:]
-    elif queue2:
-        queue2 <- queue2[2:] ( (2+2)%3 == 1 )
+function solve(arr): 
+    for i in arr:
+        sum <- sum + i
+        if (i % 3 == 0):
+            Add i to queue0
+        else
+            if (i % 3 == 1):
+                Add i to queue1
+            else:
+                Add i to queue2
+            endif
+        endif
+    endfor
+            
+    if (sum % 3 == 1):
+        if queue1:
+            queue1 <- queue1[1:]
+        else: 
+            if queue2:
+                queue2 <- queue2[2:] ( (2+2)%3 == 1 )
+            endif
+        endif
 
-elif (sum % 3 == 2):
-    if queue2:
-        queue2 <- queue2[1:] 
-    elif queue1:
-        queue1 <- queue1[2:]
-        
-aux <- queue0 + queue1 + queue2 (merge all digits list)
-aux <- sorted(aux)
-aux <- reverse(aux) (reverse array)
-return aux
+    else
+        if (sum % 3 == 2):
+            if queue2:
+                queue2 <- queue2[1:] 
+            else 
+                if queue1:
+                    queue1 <- queue1[2:]
+                endif
+            endif
+        endif
+    endif
+            
+    aux <- queue0 + queue1 + queue2 (merge all digits list)
+    aux <- sorted(aux)
+    aux <- reverse(aux) (reverse array)
+    return aux
 ```
 
 ## Complexity
