@@ -1,12 +1,17 @@
+### :pencil2: Đánh giá bài tập thực hành
+Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
++ Roll dice
++ N - queens.
 
-#### :pencil2: Đánh giá bài tập thực hành
+Trong đó, bài Roll dice là biến thể của bài toán "Cái túi" quen thuộc, sử dụng bài toán này làm assignment với mục đích giúp các nhóm dự thính hiểu ý tưởng và cài đặt cơ bản lại thuật toán Backtracking. Tuy nhiên, nhóm có cài đặt thời gian ở test case # hơi ngặt một chút để thử thách các nhóm tìm ra hướng giải quyết tối ưu hơn. Thực chất ý đồ của nhóm 3 là muốn các nhóm tự tìm hiểu và tiếp cận kỹ thuật "branch and bound" - nhánh và cận để tỉa bớt đi các nhánh chắc chắn sai mà ta không phải tìm kiếm solution ở nhánh đó nữa. Để thực hiện điều này chỉ cần ràng buộc một điều kiện trước lần gọi đệ quy tiếp theo.
 
-### Thống kê (theo hackerrank)
+Đối với bài N-queens, đây là bài toán có mức độ cao hơn một chút, đòi hỏi ngoài việc hiểu thì các nhóm cần phải vận dụng thêm chút kỹ năng và cảm giác. Tuy nhiên đây cũng là một bài toán phổ biến, các nhóm hoàn toàn có thể tham khảo các lời giải có sẵn để cài đặt giải thuật của riêng mình.
 
-Đang cập nhật
+Test case của bài này được nhóm đặt ở các link sau:
++ [Roll dice](RollDice/Test_case)
++ [N - Queens](N-Queens/Test_case)). 
 
-Có tổng cộng hai bài tập:
-
+Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm. Bài giải các nhóm tham khảo [tại đây](BaiGiaiMau)
 #### Bài Rolling dice
 
 ##### Tình trạng hoàn thành
@@ -19,8 +24,16 @@ Có tổng cộng hai bài tập:
 |5    |  Nhóm 2       |  90                |
 |6    |  Nhóm 10       |  90                |
 |7    |  Nhóm 14       |  100                |
+|8    |  Nhóm 16       |  100                |
+|9    |  Nhóm 11       |  100                |
+|10    |  Nhóm 15       |  100                |
+|11    |  Nhóm 9       |  100                |
+|12    |  Nhóm 17       |  100                |
+|13    |  Nhóm 7       |  100                |
+|14    |  Nhóm 12       |  100                |
+|15    |  Nhóm 6       |  0                  |
 
-##### Lời giải của các nhóm kèm đánh giá
+<!-- ##### Lời giải của các nhóm kèm đánh giá
 
 * [Nhóm 4](Homework_cac_nhom/RollDice/Nhom4)
 * [Nhóm 1](Homework_cac_nhom/RollDice/Nhom1)
@@ -28,7 +41,7 @@ Có tổng cộng hai bài tập:
 * [Nhóm 13](Homework_cac_nhom/RollDice/Nhom13)
 * [Nhóm 2](Homework_cac_nhom/RollDice/Nhom2)
 * [Nhóm 10](Homework_cac_nhom/RollDice/Nhom10)
-* [Nhóm 14](Homework_cac_nhom/RollDice/Nhom14)
+* [Nhóm 14](Homework_cac_nhom/RollDice/Nhom14) -->
 
 #### Bài N-Queens
 
@@ -42,8 +55,16 @@ Có tổng cộng hai bài tập:
 |5    |  Nhóm 1       |  20                |
 |6    |  Nhóm 10       |  100                |
 |7    |  Nhóm 14       |  100                |
+|8    |  Nhóm 16       |  100                |
+|9    |  Nhóm 11       |  100                |
+|10    |  Nhóm 15       |  100                |
+|11    |  Nhóm 9       |  100                |
+|12    |  Nhóm 17       |  100                |
+|13    |  Nhóm 7       |  100                |
+|14    |  Nhóm 12       |  100                |
+|15    |  Nhóm 6       |  100                |
 
-##### Lời giải của các nhóm kèm đánh giá
+<!-- ##### Lời giải của các nhóm kèm đánh giá
 
 * [Nhóm 4](Homework_cac_nhom/N-Queens/Nhom4)
 * [Nhóm 2](Homework_cac_nhom/N-Queens/Nhom2)
@@ -51,19 +72,4 @@ Có tổng cộng hai bài tập:
 * [Nhóm 13](Homework_cac_nhom/N-Queens/Nhom13)
 * [Nhóm 1](Homework_cac_nhom/N-Queens/Nhom1)
 * [Nhóm 10](Homework_cac_nhom/N-Queens/Nhom10)
-* [Nhóm 14](Homework_cac_nhom/N-Queens/Nhom14)
-
-### :clipboard: Mô tả các bài tập thực hành
-Có 2 bài tập được giao cho các nhóm dự thính bao gồm:
-+ Roll dice
-+ N - queens.
-
-Trong đó, bài Roll dice là biến thể của bài toán "Cái túi" quen thuộc, sử dụng bài toán này làm assignment với mục đích giúp các nhóm dự thính hiểu ý tưởng và cài đặt cơ bản lại thuật toán Backtracking. Tuy nhiên, nhóm có cài đặt thời gian ở test case # hơi ngặt một chút để thử thách các nhóm tìm ra hướng giải quyết tối ưu hơn. Thực chất ý đồ của nhóm 3 là muốn các nhóm tự tìm hiểu và tiếp cận kỹ thuật "branch and bound" - nhánh và cận để tỉa bớt đi các nhánh chắc chắn sai mà ta không phải tìm kiếm solution ở nhánh đó nữa. Để thực hiện điều này chỉ cần ràng buộc một điều kiện trước lần gọi đệ quy tiếp theo.
-
-Đối với bài N-queens, đây là bài toán có mức độ cao hơn một chút, đòi hỏi ngoài việc hiểu thì các nhóm cần phải vận dụng thêm chút kỹ năng và cảm giác. Tuy nhiên đây cũng là một bài toán phổ biến, các nhóm hoàn toàn có thể tham khảo các lời giải có sẵn để cài đặt giải thuật của riêng mình.
-
-Test case của bài này được nhóm đặt ở các link sau:
-+ [Roll dice](RollDice/Test_case)
-+ [N - Queens](N-Queens/Test_case). 
-
-Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm.
+* [Nhóm 14](Homework_cac_nhom/N-Queens/Nhom14) -->

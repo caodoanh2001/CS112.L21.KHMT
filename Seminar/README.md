@@ -159,10 +159,6 @@ Như vậy, hai bài toán trên (một bài dễ và một bài mức độ tru
 * [Nhóm 10](Homework_cac_nhom/N-Queens/Nhom10)
 * [Nhóm 14](Homework_cac_nhom/N-Queens/Nhom14) -->
 
-### :clipboard: Mô tả các bài tập thực hành
-
-Các bài tập thực hành được mô tả ở [đây](../Assignments)
-
 ### Tổng kết điểm của các nhóm
 #### Tiêu chí
 + Có tham gia buổi học (8 điểm)
@@ -195,6 +191,11 @@ Theo đó, mức điểm dành cho các nhóm như sau:
 |18    |  Nhóm 18       |  8        |    8     |   0                 |     0         |         0      |
 
 (*): Nhóm chủ trì
+
+
+### :clipboard: Mô tả các bài tập thực hành WECODE
+
+Các bài tập thực hành WECODE được nhóm mô tả ở [đây](../Assignments)
 
 ### :star2: Góp ý của GVHD
 #### :+1: Ưu
