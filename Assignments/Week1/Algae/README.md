@@ -38,6 +38,7 @@ The idea is based on the fact that if we multiply n times matrix M with itself (
 
 ![](https://i.imgur.com/tTs8hoc.png)
 
+#### Complexity: O(n)
 #### Pedosuecode
 First, we define base `fib()` function:
 
