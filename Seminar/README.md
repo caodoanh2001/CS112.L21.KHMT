@@ -9,8 +9,6 @@ Chủ trì buổi báo cáo bao gồm các thành viên thuộc nhóm 3:
 4. Lê Kim Tỵ - 19522505 - thành viên
 
 ### :bookmark_tabs: Phân công công việc
-
-Dưới đây là bảng tóm tắt, xem chi tiết tại [đây]()
 #### Trước lúc báo cáo
 1. Bùi Cao Doanh:
 - [x] Lên layout bài thuyết trình, phân công công việc cho các bạn trong nhóm.
@@ -94,7 +92,7 @@ Trong đó, bài Roll dice là biến thể của bài toán "Cái túi" quen th
 
 Test case của bài này được nhóm đặt ở các link sau:
 + [Roll dice](Homework_cac_nhom/RollDice/Test_case)
-+ [N - Queens](Homework_cac_nhom/N-Queens/Test_case)). 
++ [N - Queens](Homework_cac_nhom/N-Queens/Test_case). 
 
 Như vậy, hai bài toán trên (một bài dễ và một bài mức độ trung bình) phần nào giúp các nhóm luyện tập về backtracking, để thuần thục cần luyện tập nhiều thêm. Bài giải các nhóm tham khảo [tại đây](Homework_cac_nhom/BaiGiaiMau)
 #### Bài Rolling dice
